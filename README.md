@@ -1,4 +1,4 @@
-### Hi there, I'm [DarkBoy!] 👋
+### Hi there, I'm DarkBoy! 👋
 <a href="https://discord.gg/YsFTYxU">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>

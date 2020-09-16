@@ -16,7 +16,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from Bangladesh.
+I am a passionate self-taught programmer from Saudi Arbia.
  - 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](https://discord.gg/YsFTYxU)
 - 📫 Add Me On Discord? ! Darkboy🍭#0001

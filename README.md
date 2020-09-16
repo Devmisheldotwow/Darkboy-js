@@ -1,26 +1,18 @@
-### Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
-<a href="https://discord.gg/6uvgmNa">
-  <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+### Hi there, I'm [DarkBoy!] 👋
+<a href="https://discord.gg/YsFTYxU">
+  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/ohidurbappy">
+<a href="https://twitter.com/darkboy">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <a href="https://github.com/Darkboy-js">
+  <img align="left" alt="Darkboy Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/ohidurbappy">
-  <img align="left" alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://instagram.com/darkboyh2/">
+  <img align="left" alt="DarkBoy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
-
-[See on Gitstalk](https://gitstalk.netlify.app/ohidurbappy)
 
 ### Glad to see you here! 🤩 &nbsp;
 
